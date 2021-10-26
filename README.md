@@ -1,2 +1,2 @@
-# Bo-Chao
+# lazor Project
 Lazor Project
